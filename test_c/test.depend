@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1719245923 source:f:\project\codeblocks\test\main.c
+	<stdio.h>
+	<math.h>
+	"ebnn.h"
+	"test_data.h"
+	"fun1.h"
+
+1719245978 source:f:\project\codeblocks\test\fun1.c
+	"fun1.h"
+
+1719081178 f:\project\codeblocks\test\fun1.h
+	<math.h>
+	"ebnn.h"
+
+1719245908 f:\project\codeblocks\test\ebnn.h
+	<stdio.h>
+	<stdint.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1718597180 f:\project\codeblocks\test\test_data.h
+	"ebnn.h"
+
+1721720574 source:f:\project\codeblocks\bnn\fun1.c
+	"fun1.h"
+
+1719336588 f:\project\codeblocks\bnn\fun1.h
+	<math.h>
+	"ebnn.h"
+
+1720011013 f:\project\codeblocks\bnn\ebnn.h
+	<stdio.h>
+	<stdint.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1721720705 source:f:\project\codeblocks\bnn\main.c
+	<stdio.h>
+	<math.h>
+	"ebnn.h"
+	"fun1.h"
+
+1718597180 f:\project\codeblocks\bnn\test_data.h
+	"ebnn.h"
+
+1723048034 source:f:\project\codeblocks\bnn240731\fun1.c
+	"fun1.h"
+
+1722408681 f:\project\codeblocks\bnn240731\fun1.h
+	<math.h>
+	"ebnn.h"
+
+1723647091 f:\project\codeblocks\bnn240731\ebnn.h
+	<stdio.h>
+	<stdint.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1723646860 source:f:\project\codeblocks\bnn240731\main.c
+	<stdio.h>
+	<math.h>
+	"ebnn.h"
+	"fun1.h"
+
+1723048034 source:c:\users\admin\desktop\ocr\test_c\fun1.c
+	"fun1.h"
+
+1722408681 c:\users\admin\desktop\ocr\test_c\fun1.h
+	<math.h>
+	"ebnn.h"
+
+1723647091 c:\users\admin\desktop\ocr\test_c\ebnn.h
+	<stdio.h>
+	<stdint.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1723647459 source:c:\users\admin\desktop\ocr\test_c\main.c
+	<stdio.h>
+	<math.h>
+	"ebnn.h"
+	"fun1.h"
+
